@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplicationAgency.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplicationAgency.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\Upload\\0123e03b-df26-465a-9233-30da20d42af02020-Porsche-Cayenne-GTS-003-1080.jpg",
+      "PackagePath": "staticwebassets\\Upload\\0123e03b-df26-465a-9233-30da20d42af02020-Porsche-Cayenne-GTS-003-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\Upload\\73a09571-b6d4-4e4c-b3f0-41cc277e85c12020-Porsche-Cayenne-GTS-007-1080.jpg",
+      "PackagePath": "staticwebassets\\Upload\\73a09571-b6d4-4e4c-b3f0-41cc277e85c12020-Porsche-Cayenne-GTS-007-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\Upload\\f2f54b8b-4802-4475-aafd-3659d29438df2020-Porsche-Cayenne-GTS-003-1080.jpg",
+      "PackagePath": "staticwebassets\\Upload\\f2f54b8b-4802-4475-aafd-3659d29438df2020-Porsche-Cayenne-GTS-003-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\Upload\\fa974fa7-c8f8-4196-95b2-e1c796f3e2e22020-Porsche-Cayenne-GTS-007-1080.jpg",
+      "PackagePath": "staticwebassets\\Upload\\fa974fa7-c8f8-4196-95b2-e1c796f3e2e22020-Porsche-Cayenne-GTS-007-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\css\\agency.css",
+      "PackagePath": "staticwebassets\\css\\agency.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\css\\agency.min.css",
+      "PackagePath": "staticwebassets\\css\\agency.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\logos\\creative-market.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\creative-market.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\logos\\designmodo.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\designmodo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\logos\\envato.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\envato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\logos\\themeforest.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\themeforest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\dreams-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\dreams-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\dreams.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\dreams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\escape-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\escape-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\escape.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\escape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\golden-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\golden-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\golden.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\golden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\roundicons-free.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\roundicons-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\roundicons.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\roundicons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\startup-framework-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\startup-framework-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\startup-framework.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\startup-framework.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\treehouse-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\treehouse-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\portfolio\\treehouse.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\treehouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\js\\agency.js",
+      "PackagePath": "staticwebassets\\js\\agency.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\js\\agency.min.js",
+      "PackagePath": "staticwebassets\\js\\agency.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\manage\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\manage\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\manage\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_navs.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\navs\\_global.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\navs\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\navs\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\navs\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\navs\\_topbar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\navs\\_topbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_animation.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_border.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_border.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_progress.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_rotate.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\manage\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\scss\\agency.scss",
+      "PackagePath": "staticwebassets\\scss\\agency.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.17\\Desktop\\WebApplicationAgency\\WebApplicationAgency\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplicationAgency.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplicationAgency.props",
+      "PackagePath": "build\\WebApplicationAgency.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationAgency.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationAgency.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationAgency.props",
+      "PackagePath": "buildTransitive\\WebApplicationAgency.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
